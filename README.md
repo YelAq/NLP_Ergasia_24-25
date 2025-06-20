@@ -8,7 +8,7 @@
 
 ### - pipeline2.ipynb : Second NLP pipeline for text reconstruction (task 1B)
 
-### - pipeline3.ipynb : Third NLP pipeline for text reconstruction (task 1B)
+### - pipeline3.ipynb : Third NLP pipeline for text reconstruction (task 1B) (API key from https://platform.openai.com/api-keys is required to run the code.)
 
 ### - parser.ipynb : Syntactic parser that analyzes the structure of a reconstructed sentence from pipeline1,2,3 and the custom pipeline. The results were used to compare and analyze the 4 methods/pipelines (Task 1C)  
 
