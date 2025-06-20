@@ -1,0 +1,10 @@
+nltk
+torch
+transformers
+scikit-learn
+matplotlib
+pandas
+numpy
+spacy
+tabulate
+openai
